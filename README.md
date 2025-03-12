@@ -37,10 +37,6 @@
 
 ---
 
-## 🐍 Contribution Activity  
-<p align="center">
-  <img src="https://github.com/Anaseptian21/Anaseptian21/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
 ---
 
