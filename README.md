@@ -18,23 +18,34 @@
 
 ---
 
-## **📌 CORE MODULES**
-### **🛠 SYSTEM COMPONENTS**
-- 🤖 **AI & Machine Learning** – AI-powered automation, chatbots, data intelligence  
-- 🌐 **Fullstack Web Dev** – Next.js, React.js, Golang, PostgreSQL, Kotlin  
-- 🎨 **Futuristic UI/UX** – Cyberpunk, holographic, and immersive design  
+## **📡 ACTIVE PROJECTS**
+| 🔹 Project Name  | 🚀 Description |
+|-----------------|--------------------------------------------|
+| **SEPANALYST** | AI-powered **data analytics** with **3D visualizations**  |
+| **INSIGHTX** | **Business intelligence** with **interactive AI analysis** |
+| **FuturaBooks** | **AI bookshelf** with **personalized recommendations** |
+| **LUXTIE** | **AR-powered digital invitations**  |
+| **AI Chatbot** | Conversational AI **like J.A.R.V.I.S**  |
+| **SIREKAP** | **AI-powered** laundry management app  |
+| **MTS Turus Website** | **School management system** with Laravel backend  |
+| **SeptianGym** | Gym management system using TypeScript  |
+
+🔗 **More Projects:** [GitHub Repositories](https://github.com/Anaseptian21?tab=repositories)  
 
 ---
 
-## **🧑‍🚀 PROJECT DATABASE**
-### **📡 ACTIVE PROJECTS**
-🧠 **SEPANALYST** → AI-powered **data analytics system** with **3D visualizations**.  
-🌀 **INSIGHTX** → Intelligent **business data analysis** dashboard.  
-📖 **FuturaBooks** → **AI bookshelf** with personalized recommendations.  
-🔮 **LUXTIE** → **AR-powered digital invitations**.  
-🤖 **AI Chatbot** → Conversational AI like **J.A.R.V.I.S**.  
+## **📂 REPOSITORY DATABASE**
+🔹 **Public Repositories**:
+- 🌍 [**SeptianGym**](https://github.com/Anaseptian21/SeptianGym) - TypeScript-based gym app  
+- 📊 [**SIREKAP**](https://github.com/Anaseptian21/SIREKAP) - AI-driven **laundry management**  
+- 📡 [**mts-turus-pandeglang**](https://github.com/Anaseptian21/mts-turus-pandeglang) - Laravel-powered school website  
+- 🎓 [**tugassinau**](https://github.com/Anaseptian21/tugassinau) - JavaScript projects  
+- 🏋️ [**SeptianGym**](https://github.com/Anaseptian21/SeptianGym) - Full gym management system  
+- 🛠️ [**Config files**](https://github.com/Anaseptian21/config) - GitHub setup and profile config  
+- 📚 **Forked Repos**: [learngit-sinaukoding](https://github.com/Anaseptian21/learngit-sinaukoding), [mysql](https://github.com/Anaseptian21/mysql)  
 
-🔗 **More Projects:** [GitHub Repositories](https://github.com/Anaseptian21?tab=repositories)  
+🔹 **Private Repositories**:
+- 🔒 **Https-git-enigmacamp.20-Ana-septian-challenge-godb** – Golang & database challenge  
 
 ---
 
@@ -53,6 +64,6 @@ Developer Profile:
   - Skill Level: Expert in AI & Fullstack
   - UI/UX Specialization: Futuristic Design
   - Strengths: AI, Automation, Cyberpunk UI
-  - Active Projects: SEPANALYST, INSIGHTX, LUXTIE
+  - Active Projects: SEPANALYST, INSIGHTX, LUXTIE, SIREKAP
   - AI Efficiency: 99.9%
   - System Optimization: Fully Synced with GitHub Neural Network
