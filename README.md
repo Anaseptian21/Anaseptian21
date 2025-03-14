@@ -21,18 +21,9 @@
 
 ---
 
-<h1 align="center">🏆 CERTIFICATE OF EXCELLENCE 🏆</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anaseptian21/Anaseptian21/main/certificate_border.png" alt="Certificate Border" width="700"/>
-</p>
 
 ---
 
-<h2 align="center">📜 GitHub Achievement Certificate 📜</h2>
-
-<p align="center"><em>Presented to: <strong>ANA SEPTIAN</strong></em></p>
-<p align="center"><em>For outstanding contributions in Open-Source, Fullstack Development, and AI Innovation</em></p>
 
 ---
 
@@ -64,20 +55,8 @@
 
 
 ---
-<h1 align="center">🛠️ SYSTEM ANALYSIS: J.A.R.V.I.S MODE 🛠️</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anaseptian21/Anaseptian21/main/jarvis_hud.gif" alt="Jarvis HUD" width="600"/>
-</p>
 
 ---
-
-<h2 align="center">🔧 Skills & Technologies</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anaseptian21/Anaseptian21/main/jarvis_scan.gif" alt="Jarvis Scan" width="600"/>
-</p>
-
 
 
 ---
